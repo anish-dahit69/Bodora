@@ -457,7 +457,6 @@ h6 {
 /* about section start*/
 
 .about {
-
   margin-bottom: 5rem;
 
   & .container {
@@ -508,9 +507,7 @@ h6 {
 /* about section end */
 
 /* contact section start */
-.contact {
 
-}
 .contact .container {
   height: 80vh;
   background-color: #f4f4f5;
