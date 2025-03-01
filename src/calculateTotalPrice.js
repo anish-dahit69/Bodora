@@ -14,7 +14,7 @@ export const calculateTotalPrice = () => {
   const subTotalElement = (document.querySelector(".subtotalValue").textContent =
     subTotal);
   const shippingCharge = document.querySelector(".taxValue").textContent;
-  console.log(shippingCharge);
+  // console.log(shippingCharge);
   const total = subTotal + parseInt(shippingCharge);
   document.querySelector(".totalValue").textContent = total;
 };

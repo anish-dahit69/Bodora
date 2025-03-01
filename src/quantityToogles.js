@@ -1,9 +1,9 @@
 export const quantityToogles = (event, product_id, total_stock) => {
   const currentCard = document.querySelector(`#card${product_id}`);
-  if (!currentCard) {
-    console.warn(`Card with id #card${product_id} not found`);
-    return;
-  }
+  // if (!currentCard) {
+  //   console.warn(`Card with id #card${product_id} not found`);
+  //   return;
+  // }
   // console.log(currentCard);
   const decrementButton = currentCard.querySelector(".decrBtn");
   const incrementButton = currentCard.querySelector(".incrBtn");
