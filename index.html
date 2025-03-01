@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/public/img/logo.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/src/style.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+  <title>Bodora</title>
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-items">
+        <div class="logo">
+          <img src="/public/img/logo.png" alt="logo">
+        </div>
+        <nav>
+          <ul class="nav-lists">
+            <li class="nav-items"><a href="index.html">home</a></li>
+            <li class="nav-items"><a href="#store">shop</a></li>
+            <li class="nav-items"><a href="#about">about us</a></li>
+            <li class="nav-items"><a href="#contact">contact</a></li>
+            <a href="/src/cart.html"><i class="ri-shopping-cart-line">0</i></a>
+          </ul>
+        </nav>
+        <div class="icons">
+          <a href="/src/cart.html"><i class="ri-shopping-cart-line">0</i></a>
+          <i class="ri-menu-4-fill"></i>
+          <i class="ri-close-line"></i>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- <section class="container">
+    <div class="carousel">
+      <div class="carousel-inner">
+        <img src="/public/img/bell bottom trousers.jpg" alt="Slide 1">
+        <img src="/public/img/SATIN PENCIL SKIRT.jpg" alt="Slide 2">
+        <img src="/public/img/washed joggers.jpg" alt="Slide 3">
+        <img src="/public/img/FAUX SUEDE OVERSHIRT.jpg" alt="Slide 4">
+      </div>
+    </div>
+  </section> -->
+
+  <section class="hero-section">
+    <div class="container">
+      <div class="hero-content grid grid-two-col">
+        <div class="main-content">
+          <h1>
+            Unleash Your Style with Boroda
+          </h1>
+          <!-- <h2>
+            No Gender
+          </h2> -->
+          <p>
+            Embrace versatility,Celebrate individuality.
+          </p>
+          <p>
+            Discover pieces crafted for everyone, everywhere.
+          </p>
+          <a href="">shop Now</a>
+        </div>
+        <div class="hero-img">
+          <img src="/public/img/hero-img.png" alt="">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- product section  -->
+
+  <section class="store" id="store">
+    <div class="container">
+      <h1>shop now</h1>
+    </div>
+  </section>
+
+  <section class="container">
+    <div id="productContainer">
+
+    </div>
+  </section>
+  <!-- product section  -->
+
+  <!-- template start -->
+
+  <template id="productTemplate">
+    <div class="card" id="cardvalue">
+      <article class="information ">
+        <div class="top">
+          <span class="category"></span>
+          <span class="off"></span>
+        </div>
+        <div class="imageContainer">
+          <img class="productImage" src="" alt="" loading="lazy">
+        </div>
+        <h2 class="productName"></h2>
+        <p class="productDetails"></p>
+        <div class="price">
+          <p class="discountPrice"></p>
+          <p class="actualPrice"></p>
+        </div>
+        <div class="stocks">
+          <p class="title">total stocks:</p>
+          <p class="productStock"></p>
+        </div>
+        <div class="quantity">
+          <p class="title">quantity</p>
+          <div class="quantityElement">
+            <button class="decrBtn">-</button>
+            <p class="productQuantity" dataQuantity="1">1</p>
+            <button class="incrBtn">+</button>
+          </div>
+        </div>
+        <button class="addcart">
+          <i class="ri-shopping-cart-line"></i>
+          add to cart
+        </button>
+      </article>
+    </div>
+  </template>
+  <!-- template start -->
+
+  <!-- about section  start-->
+  <section class="about" id="about">
+    <div class="container">
+      <h1>about us</h1>
+      <div class="about-content grid grid-two-col">
+        <div class="about-img">
+          <img src="/public/img/about .jpg" alt="" loading="lazy">
+        </div>
+        <div class="about-text">
+          <p>
+            At <span>Bodora</span>, we believe fashion knows no boundaries—no labels, no limits. Our collection is
+            designed for
+            everyone, embracing individuality, comfort, and effortless style. Whether you’re looking for everyday
+            essentials or bold statement pieces, we craft apparel that speaks to your confidence and personality.
+
+            Rooted in quality and inclusivity, <span>Bodora</span> merges contemporary trends with timeless designs,
+            ensuring every
+            piece fits seamlessly into your lifestyle. Our mission is simple: to provide stylish, versatile, and
+            comfortable fashion for all, regardless of gender.
+
+            Join us in redefining fashion—where expression is limitless, and style is for everyone.
+          <p>Wear what feels right. Wear <span>Bodora</span>.</p>
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </section>
+  <!-- about section  end-->
+  <section class="contact" id="contact">
+    <div class="container">
+      <h1>contact us</h1>
+      <div class="contactContainer grid grid-two-col">
+        
+        <div class="contact-information">
+        
+          <p>
+            <span>Address:</span> 1234 Fashion Street, New York, NY 10001
+          </p>
+          <p> <span>Hours:</span> Mon-Fri: 9am-5pm</p>
+          <p> <span>Sat-Sun:</span> 10am-4pm</p>
+          <p>
+            <span>Phone:</span> 123-456-7890
+          </p>
+          <p>
+            <span>Email:</span> contact@bodora.com
+          </p>
+
+        </div>
+        <div class="contact-form">
+          <form action="">
+            <input type="text" placeholder="Name">
+            <input type="email" placeholder="Email">
+            <textarea name="" id="" cols="30" rows="10" placeholder="Message"></textarea>
+            <button>send</button>
+          </form>
+
+        </div>
+      </div>
+  </section>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
