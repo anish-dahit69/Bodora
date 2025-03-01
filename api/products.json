@@ -8,7 +8,7 @@
     "discounted_price": 4000.00,
     "percentage": 20,
     "total_stock": 100,
-    "img": "/public/img/abstract print shirt.jpg",
+    "img": "/img/abstract print shirt.jpg",
     "gender": "men"
   },
   {
@@ -20,7 +20,7 @@
     "discounted_price": 6400.00,
     "percentage": 20,
     "total_stock": 80,
-    "img": "/public/img/comfort fit joggers.jpg",
+    "img": "/img/comfort fit joggers.jpg",
     "gender": "men"
   },
   {
@@ -32,7 +32,7 @@
     "discounted_price": 24000.00,
     "percentage": 20,
     "total_stock": 30,
-    "img": "/public/img/woolen coat.jpg",
+    "img": "/img/woolen coat.jpg",
     "gender": "men"
   },
   {
@@ -44,7 +44,7 @@
     "discounted_price": 5400.00,
     "percentage": 10,
     "total_stock": 120,
-    "img": "/public/img/FAUX SUEDE OVERSHIRT.jpg",
+    "img": "/img/FAUX SUEDE OVERSHIRT.jpg",
     "gender": "men"
   },
   {
@@ -56,7 +56,7 @@
     "discounted_price": 10800.00,
     "percentage": 10,
     "total_stock": 60,
-    "img": "/public/img/faux-suede-overshirt.jpg",
+    "img": "/img/faux-suede-overshirt.jpg",
     "gender": "men"
   },
   {
@@ -68,7 +68,7 @@
     "discounted_price": 32000.00,
     "percentage": 20,
     "total_stock": 20,
-    "img": "/public/img/suit blazer.jpg",
+    "img": "/img/suit blazer.jpg",
     "gender": "men"
   },
   {
@@ -80,7 +80,7 @@
     "discounted_price": 8000.00,
     "percentage": 20,
     "total_stock": 90,
-    "img": "/public/img/down jacket.jpg",
+    "img": "/img/down jacket.jpg",
     "gender": "men"
   },
   {
@@ -92,7 +92,7 @@
     "discounted_price": 7200.00,
     "percentage": 20,
     "total_stock": 75,
-    "img": "/public/img/slim fit comfort joggers.jpg",
+    "img": "/img/slim fit comfort joggers.jpg",
     "gender": "men"
   },
   {
@@ -104,7 +104,7 @@
     "discounted_price": 16000.00,
     "percentage": 20,
     "total_stock": 50,
-    "img": "/public/img/comfort overshirt.jpg",
+    "img": "/img/comfort overshirt.jpg",
     "gender": "men"
   },
   {
@@ -116,7 +116,7 @@
     "discounted_price": 5400.00,
     "percentage": 10,
     "total_stock": 110,
-    "img": "/public/img/running shoes.jpg",
+    "img": "/img/running shoes.jpg",
     "gender": "men"
   },
   {
@@ -128,7 +128,7 @@
     "discounted_price": 19200.00,
     "percentage": 20,
     "total_stock": 40,
-    "img": "/public/img/bomber jacket.jpg",
+    "img": "/img/bomber jacket.jpg",
     "gender": "men"
   },
   {
@@ -140,7 +140,7 @@
     "discounted_price": 5600.00,
     "percentage": 20,
     "total_stock": 95,
-    "img": "/public/img/polo tshirt.jpg",
+    "img": "/img/polo tshirt.jpg",
     "gender": "men"
   },
   {
@@ -152,7 +152,7 @@
     "discounted_price": 11200.00,
     "percentage": 20,
     "total_stock": 70,
-    "img": "/public/img/sneaker.jpg",
+    "img": "/img/sneaker.jpg",
     "gender": "men"
   },
   {
@@ -164,7 +164,7 @@
     "discounted_price": 8000.00,
     "percentage": 20,
     "total_stock": 85,
-    "img": "/public/img/cargo pant.jpg",
+    "img": "/img/cargo pant.jpg",
     "gender": "men"
   },
   {
@@ -176,7 +176,7 @@
     "discounted_price": 6400.00,
     "percentage": 20,
     "total_stock": 65,
-    "img": "/public/img/sweatshirt.jpg",
+    "img": "/img/sweatshirt.jpg",
     "gender": "men"
   },
   {
@@ -188,7 +188,7 @@
     "discounted_price": 4000.00,
     "percentage": 20,
     "total_stock": 100,
-    "img": "/public/img/shorts.jpg",
+    "img": "/img/shorts.jpg",
     "gender": "men"
   },
   {
@@ -200,7 +200,7 @@
     "discounted_price": 8000.00,
     "percentage": 20,
     "total_stock": 90,
-    "img": "/public/img/LINGERIE BODYSUIT.jpg",
+    "img": "/img/LINGERIE BODYSUIT.jpg",
     "gender": "women"
   },
   {
@@ -212,7 +212,7 @@
     "discounted_price": 11200.00,
     "percentage": 20,
     "total_stock": 60,
-    "img": "/public/img/sandal.jpg",
+    "img": "/img/sandal.jpg",
     "gender": "women"
   },
   {
@@ -224,7 +224,7 @@
     "discounted_price": 12800.00,
     "percentage": 20,
     "total_stock": 45,
-    "img": "/public/img/hand-bag.jpg",
+    "img": "/img/hand-bag.jpg",
     "gender": "women"
   },
   {
@@ -236,7 +236,7 @@
     "discounted_price": 5600.00,
     "percentage": 20,
     "total_stock": 80,
-    "img": "/public/img/assymetric midi dress.jpg",
+    "img": "/img/assymetric midi dress.jpg",
     "gender": "women"
   },
   {
@@ -248,7 +248,7 @@
     "discounted_price": 5400.00,
     "percentage": 10,
     "total_stock": 110,
-    "img": "/public/img/blouse.jpg",
+    "img": "/img/blouse.jpg",
     "gender": "women"
   },
   {
@@ -260,7 +260,7 @@
     "discounted_price": 7200.00,
     "percentage": 20,
     "total_stock": 70,
-    "img": "/public/img/wide leg jeans.jpg",
+    "img": "/img/wide leg jeans.jpg",
     "gender": "women"
   },
   {
@@ -272,7 +272,7 @@
     "discounted_price": 8800.00,
     "percentage": 20,
     "total_stock": 55,
-    "img": "/public/img/cardigan.jpg",
+    "img": "/img/cardigan.jpg",
     "gender": "women"
   },
   {
@@ -284,7 +284,7 @@
     "discounted_price": 12800.00,
     "percentage": 20,
     "total_stock": 50,
-    "img": "/public/img/boot.jpg",
+    "img": "/img/boot.jpg",
     "gender": "women"
   },
   {
@@ -296,7 +296,7 @@
     "discounted_price": 9600.00,
     "percentage": 20,
     "total_stock": 40,
-    "img": "/public/img/lace midi dress.jpg",
+    "img": "/img/lace midi dress.jpg",
     "gender": "women"
   },
   {
@@ -308,7 +308,7 @@
     "discounted_price": 16000.00,
     "percentage": 20,
     "total_stock": 35,
-    "img": "/public/img/denim jacket.jpg",
+    "img": "/img/denim jacket.jpg",
     "gender": "women"
   },
   {
@@ -320,7 +320,7 @@
     "discounted_price": 5600.00,
     "percentage": 20,
     "total_stock": 80,
-    "img": "/public/img/leggings.jpg",
+    "img": "/img/leggings.jpg",
     "gender": "women"
   },
   {
@@ -332,7 +332,7 @@
     "discounted_price": 4000.00,
     "percentage": 20,
     "total_stock": 95,
-    "img": "/public/img/crop top.jpg",
+    "img": "/img/crop top.jpg",
     "gender": "women"
   },
   {
@@ -344,7 +344,7 @@
     "discounted_price": 8800.00,
     "percentage": 20,
     "total_stock": 60,
-    "img": "/public/img/draped midi dress.jpg",
+    "img": "/img/draped midi dress.jpg",
     "gender": "women"
   },
   {
@@ -356,7 +356,7 @@
     "discounted_price": 7200.00,
     "percentage": 20,
     "total_stock": 85,
-    "img": "/public/img/flat shoes.jpg",
+    "img": "/img/flat shoes.jpg",
     "gender": "women"
   },
   {
@@ -368,7 +368,7 @@
     "discounted_price": 24000.00,
     "percentage": 20,
     "total_stock": 30,
-    "img": "/public/img/crop puffer jacket.jpg",
+    "img": "/img/crop puffer jacket.jpg",
     "gender": "women"
   }
 ]
